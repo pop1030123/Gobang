@@ -1,0 +1,1 @@
+# Gobang by cocos creator .
